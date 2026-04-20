@@ -17,23 +17,23 @@ function Marquee() {
                 transition={{ ease: "linear", repeat: Infinity, duration: 25 }}
                 className="flex gap-10 whitespace-nowrap font-['font-2']"
               >
-                <h1 className="text-[23vw] text-[20vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
+                <h1 className="text-[23vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
                   WE ARE OCHI
                 </h1>
-                <h1 className="text-[22vw] text-[20vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
+                <h1 className="text-[22vw]  md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
                   WE ARE OCHI
                 </h1>
-                <h1 className="text-[22vw] text-[20vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
+                <h1 className="text-[22vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
                   WE ARE OCHI
                 </h1>
 
-                <h1 className="text-[22vw] text-[20vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
+                <h1 className="text-[22vw]  md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
                   WE ARE OCHI
                 </h1>
-                <h1 className="text-[22vw] text-[20vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
+                <h1 className="text-[22vw]  md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
                   WE ARE OCHI
                 </h1>
-                <h1 className="text-[22vw] text-[20vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
+                <h1 className="text-[22vw] md:text-[18vw] lg:text-[16vw] text-white font-bold leading-none">
                   WE ARE OCHI
                 </h1>
               </motion.div>
