@@ -49,7 +49,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/img-3.png"
+                  src="/img-3.png"
                   alt=""
                   className="bg-cover w-full h-full"
                 />
@@ -87,7 +87,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/img-4.png"
+                  src="/img-4.png"
                   alt=""
                   className="bg-cover w-full h-full"
                 />
@@ -129,7 +129,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/card-1.png"
+                  src="/card-1.png"
                   alt=""
                   className="bg-cover w-full h-full"
                 />
