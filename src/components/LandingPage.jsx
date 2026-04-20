@@ -23,7 +23,7 @@ const LandingPage = () => {
                           initial={{ width: "0" }}
                           animate={{ width: "9vw" }}
                           transition={{ease:[0.76,0,0.24,1],duration:"1"}}
-                          className="w-[9vw] h-[5vw] bg-cover rounded mr-[0.5vw]  bg-[url('./public/taxt-img.png')] relative top-4"
+                          className="w-[9vw] h-[5vw] bg-cover rounded mr-[0.5vw]  bg-[url(' /taxt-img.png')] relative top-4"
                         >
                         </motion.div>
                       )}

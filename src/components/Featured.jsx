@@ -167,7 +167,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/card-2.png"
+                  src="/card-2.png"
                   alt=""
                   className="bg-cover w-full h-full"
                 />
