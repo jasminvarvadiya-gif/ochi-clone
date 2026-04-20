@@ -12,7 +12,7 @@ const LandingPage = () => {
     <>
       <div className="container z-10 relative pb-15" data-scroll data-scroll-section='-.3'  data-scroll-speed="-.8" >
         <div className="content w-full h-screen pt-1">
-          <div className="txtstructure mt-32 px-15">
+          <div className="txtstructure mt-32 px-15 w-full">
             {["we creact", "EYE-opening", "presentations"].map(
               (item, index) => {
                 return (
