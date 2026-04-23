@@ -88,7 +88,7 @@ const About = () => {
               <motion.img
                 animate={imgscntrol}
                 initial={{ scale: 1 }}
-                src="./public/img.png"
+                src="/img.png"
                 alt=""
                 className=" rounded-xl"
               />

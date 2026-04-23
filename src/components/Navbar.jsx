@@ -48,8 +48,8 @@ function Navbar() {
             </div>
 
             <div className="link flex gap-10 ">
-              {open && (
-                <div className="lg:hidden fixed top-[80px] left-0 w-full bg-black text-white flex flex-col items-center gap-6 py-6">
+            
+                <div className=" left-0 w-full flex  items-center gap-6 py-6">
                   {[
                     "Services",
                     "Our Contact",
@@ -57,12 +57,12 @@ function Navbar() {
                     "Insights",
                     "Contect",
                   ].map((item, index) => (
-                    <a key={index} className="text-lg capitalize sm:hidden">
+                    <a key={index} className="text-lg capitalize ">
                       {item}
                     </a>
                   ))}
                 </div>
-              )}
+            
             </div>
           </div>
         </div>
