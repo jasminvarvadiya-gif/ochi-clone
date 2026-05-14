@@ -51,7 +51,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/img-3.png"
+                  src="/public/img-3.png"
                   alt="Salience Labs"
                   className="bg-cover w-full h-full object-cover"
                 />
@@ -90,7 +90,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/img-4.png"
+                  src="/public/img-4.png"
                   alt="Medallia"
                   className="bg-cover w-full h-full object-cover"
                 />
@@ -132,7 +132,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/card-1.png"
+                  src="/public/card-1.png"
                   alt="Soma Energy"
                   className="bg-cover w-full h-full object-cover"
                 />
@@ -171,7 +171,7 @@ const Featured = () => {
                   ))}
                 </h1>
                 <img
-                  src="./public/card-2.png"
+                  src="/public/card-2.png"
                   alt="AH2 & Matt Horn"
                   className="bg-cover w-full h-full object-cover"
                 />
