@@ -15,7 +15,7 @@ function Card() {
                 </div>
                  <div className="cardcontainer w-full md:w-1/3 h-37 ">
                      <div className="card w-full h-full bg-zinc-900 rounded-lg md:rounded-xl flex flex-col items-center justify-center relative p-4">
-                      <img src="/public/log0-2.png" alt="logo-2" className="w-24 md:w-32 mb-4" />
+                      <img src="/public/logo-2.png" alt="logo-2" className="w-24 md:w-32 mb-4" />
                       <button className="absolute left-3 md:left-5 bottom-3 md:bottom-5 text-white border border-white rounded-full px-2 md:px-3 uppercase text-xs md:text-sm">Pating 5.0 on Cluntch</button>
                     </div>
                 </div>

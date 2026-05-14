@@ -25,7 +25,7 @@ const About = () => {
   };
   return (
     <>
-      <div className="conteiner py-8 md:py-10 w-full rounded-tl-2xl md:rounded-tl-3xl rounded-tr-2xl md:rounded-tr-3xl bg-[#cdea68]">
+      <div className="conteiner py-8 md:py-10 w-full md:z-100 rounded-tl-2xl md:rounded-tl-3xl rounded-tr-2xl md:rounded-tr-3xl bg-[#cdea68]">
         <div className="content">
           <div className="txt py-4 px-4 md:px-15 border-b pb-8 md:pb-10">
             <h1 className='text-lg md:text-[4vw] font-["font-1"] leading-relaxed md:leading-[10vh]'>
@@ -88,7 +88,7 @@ const About = () => {
               <motion.img
                 animate={imgscntrol}
                 initial={{ scale: 1 }}
-                src="/public/img.png"
+                src="/img.png"
                 alt="about"
                 className="rounded-lg md:rounded-xl w-full h-auto"
               />
