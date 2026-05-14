@@ -21,7 +21,7 @@ const LandingPage = () => {
                       {index === 1 && (
                         <motion.div
                           initial={{ width: "0" }}
-                          animate={{ width: "10vw" }}
+                          animate={{ width: "9vw" }}
                           transition={{ease:[0.76,0,0.24,1],duration:"1"}}
                           className="w-40 md:w-[9vw] h-24 md:h-[5vw] bg-cover rounded mr-2 md:mr-[0.5vw]  bg-[url('/public/taxt-img.png')] relative top-2 md:top-4"
                         >
